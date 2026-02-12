@@ -4,12 +4,12 @@
 
 const CONFIG = {
     // Your Valentine's name that will appear in the title
-    // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    // Example: "Joanna", "Valeria", "Pineda"
+    valentineName: "Joanna",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "To: Joanna Valeria Pineda? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "Me amas amor?",                                    // First interaction
+            yesBtn: "Si",                                             // Text for "Yes" button
+            noBtn: "A veces",                                               // Text for "No" button
+            secretAnswer: "Te amo muchisimo!!! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Mi, amor entonces will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            yesBtn: "Si, corazon!",                                             // Text for "Yes" button
+            noBtn: "No!"                                                 // Text for "No" button
         }
     },
 
