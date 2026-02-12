@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "AMORRR!? You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "HEHEE ay amor! 🚀💝",              // Shows when they go past 1000%
+        extreme: "AMORRR!? You love me that much!!?? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "HEHEE ay amor thats a lot!! 🚀💝",              // Shows when they go past 1000%
         normal: "Aww baby! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "AUGH IM SO BLESSED TO HAVE YOU! 🎉💝💖💝💓",
-        message: "I you sooo much corazon!",
+        message: "I you sooo much corazon! /n Please check my bag for gifts",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
