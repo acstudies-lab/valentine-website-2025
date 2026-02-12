@@ -9,13 +9,13 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "To: Joanna Valeria Pineda? 💝",
+    pageTitle: "To: Joanna Valeria Pineda",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        bears: ['🙊', '🐻','🦆']                       // Cute bear emojis
     },
 
     // Questions and answers
