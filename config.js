@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "To: Joanna Valeria Pineda",
+    pageTitle: "To: Joanna V. Pineda",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Me amas?",                                    // First interaction
             yesBtn: "Si",                                             // Text for "Yes" button
             noBtn: "A veces",                                               // Text for "No" button
-            secretAnswer: "Te amo muchisimo!!! ❤️"           // Secret hover message
+            secretAnswer: "Te amo muchisimo amor!!! ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -33,24 +33,24 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Mi, amor entonces will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Si, corazon!",                                             // Text for "Yes" button
-            noBtn: "No!"                                                 // Text for "No" button
+            text: "Entonces will you be my Valentine? 🌹", // The big question!
+            yesBtn: "YESS!",                                             // Text for "Yes" button
+            noBtn: "NOOOO!"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "AMORRR!? You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "HEHEE ay amor! 🚀💝",              // Shows when they go past 1000%
+        normal: "Aww baby! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "AUGH IM SO BLESSED TO HAVE YOU! 🎉💝💖💝💓",
+        message: "I you sooo much corazon!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
