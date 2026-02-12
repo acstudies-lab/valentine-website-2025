@@ -24,7 +24,7 @@ const CONFIG = {
         first: {
             text: "Me amas?",                                    // First interaction
             yesBtn: "Si",                                             // Text for "Yes" button
-            noBtn: "A veces",                                               // Text for "No" button
+            noBtn: "De Vez en Cuando",                                               // Text for "No" button
             secretAnswer: "Te amo muchisimo amor!!! ❤️"           // Secret hover message
         },
         second: {
