@@ -50,18 +50,18 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "AUGH IM SO BLESSED TO HAVE YOU! 🎉💖💝💓",
-        message: "I you sooo much corazon! \n Now… turn around for a little surprise🌹",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "I you sooo much corazon! \n Please… turn around for another surprise🎁",
+        emojis: "💖🤗💝💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#7f1d3a",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#c44569",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b81",     // Button color (should stan8e2a3ad out against the background)
-        buttonHover: "#ff8fa3",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#fff0f5"             // Text color (make sure it's readable!)
+        backgroundStart: "#F7DEE3",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#F76F77",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#CC0000",     // Button color (should stan8e2a3ad out against the background)
+        buttonHover: "#FF3334",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#7f1d3a"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
