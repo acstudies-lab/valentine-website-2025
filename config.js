@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "To: Joanna V. Pineda",
+    pageTitle: "To: Joanna V. Pineda From: Ronny",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -24,7 +24,7 @@ const CONFIG = {
         first: {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes, I like you",                                             // Text for "Yes" button
-            noBtn: "De Vez en Cuando",                                               // Text for "No" button
+            noBtn: "De vez en cuando",                                               // Text for "No" button
             secretAnswer: "No baby, te amo!!! ❤️"           // Secret hover message
         },
         second: {
