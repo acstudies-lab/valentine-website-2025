@@ -15,14 +15,14 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🙊', '🐻','🦆']                       // Cute bear emojis
+        bears: ['🙊', '🐻','🦆']                  // Cute bear emojis
     },
 
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Me amas amor?",                                    // First interaction
+            text: "Me amas?",                                    // First interaction
             yesBtn: "Si",                                             // Text for "Yes" button
             noBtn: "A veces",                                               // Text for "No" button
             secretAnswer: "Te amo muchisimo!!! ❤️"           // Secret hover message
